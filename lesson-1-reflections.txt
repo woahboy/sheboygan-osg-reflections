@@ -1,0 +1,41 @@
+Bugs are generally introduced when you make changes. If you have working code and then suddenly you don't, odds are something you did caused the problem.
+
+Check the diffs to see only what you changed; the problem is likely somewhere in there.
+
+==================
+
+How could having easy access to the history of a file...
+
+You can code boldly...you don't have to be afraid of changing stuff because you know that you can always get back to what you had before.
+
+==================
+
+Pros / cons of manual vs automatic committing:
+
+Pros: You get to choose when to commit.
+Cons: You forget to commit until the end of the night.
+
+==================
+
+why does git allow multiple file saves?
+
+Because Linus isn't an idiot and if you don't save the entire state of your project demons appear and eat your face.
+
+==================
+
+Git log / git diff?
+
+Use git log to see how the repo has changed (there's a word for this but I can't bring it to mind.  Semantic changes?), use git diff to see the content of changes.
+
+==================
+
+As above, being able to go back in history makes you BOLD, and gives you REAL SOVIET CONFIDENCE
+
+==================
+
+"What do you want to use Git for?
+
+Friggin everything.
+
+==================
+
