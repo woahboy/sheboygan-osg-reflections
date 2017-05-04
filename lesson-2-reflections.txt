@@ -1,0 +1,1 @@
+When you initialize a repo, you get the ability to use git, and you should do that because woooooo.
