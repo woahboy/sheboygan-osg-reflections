@@ -1,1 +1,22 @@
 When you initialize a repo, you get the ability to use git, and you should do that because woooooo.
+
+==================
+
+The staging area is a useful way to build commits, if you don't want to commit everything.
+
+The working directory is where you get to dick around in bash.
+
+==================
+
+Branches are great because it lets you keep logical work separate until you're ready to merge it back.
+
+==================
+
+Git branch diagrams help because SHA-1 hashes are hard.
+
+==================
+
+Merging pulls all of the changes of one branch into another branch. In the diagram, it's shown as an intersection of two commits.
+
+==================
+
